@@ -2,7 +2,7 @@ import requests
 import time
 
 # Your API key (ensure it's valid and has the right permissions)
-API_KEY = "AIzaSyCqxTYDTxZ9Mgq64wSPQxMaQ9lz9ipqk-s"
+API_KEY = "YourAPIKEY"
 API_URL = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key={API_KEY}"
 
 # List of stop commands
